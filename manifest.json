@@ -810,15 +810,13 @@
           "description": "Qualification article for id 61",
           "label": "Qualification article for id 61",
           "value": "https://test.employers.tlevels.gov.uk/hc/en-gb/sections/4416396532882-Digital-and-IT#digital-software-development"
-        },
-        {
+        }, {
           "identifier": "qualification_article_62",
           "type": "text",
           "description": "Qualification article for id 62",
           "label": "Qualification article for id 62",
           "value": "https://test.employers.tlevels.gov.uk/hc/en-gb/sections/4416396532882-Digital-and-IT#digital-support-security"
-        },
-        {
+        }, {
           "identifier": "qualification_article_63",
           "type": "text",
           "description": "Qualification article for id 63",
